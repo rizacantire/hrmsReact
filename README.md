@@ -1,2 +1,2 @@
 
-https://www.hizliresim.com/28xsimn
+![alt text](https://www.hizliresim.com/28xsimn)
